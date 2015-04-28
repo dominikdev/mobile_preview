@@ -20,11 +20,11 @@ The static preview is extremely simplistic. This is the full extent of the HTML 
 
 ```HTML
 <div class="wrapper">
-    <div id="mobile-preview-outer" class="iphone">
-           <div id="mobile-preview-inner">
-                    <iframe class="mp-iframe" src="YOUR URL HERE"></iframe>
-           </div>
-    </div>
+  <div id="mobile-preview-outer" class="iphone">
+     <div id="mobile-preview-inner">
+       <iframe class="mp-iframe" src="YOUR URL HERE"></iframe>
+     </div>
+   </div>
 </div>
 ```
 
