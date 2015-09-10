@@ -8,27 +8,12 @@ View Project Page: [Mobile Preview Framework](http://bit.ly/mobpreview)
 
 Screenshot
 --------------
-![Screenshot](http://dominikdev.com/resources/github/screenshots/mobile_preview.png "Screenshot")
+![Screenshot](http://dominikdev.com/resources/github/screenshots/mobile_preview_2.png "Screenshot")
 
-Dynamic Preview
+How It Works
 --------------
-The dynamic preview has an input field to display any URL you choose. This input will also accept the preview of local files. This is useful to help you visualize a page that you are working on. However if you intend to display a certain website to a different party you will want to use the static preview.
+The Mobile Preview has an input field to display any URL you choose. This input will also accept the preview of local files. This is useful to help you visualize a page that you are working on. It's also useful when previewing responsive website designs to clients.
 
-Static Preview
---------------
-The static preview is extremely simplistic. This is the full extent of the HTML code:
-
-```HTML
-<div class="wrapper">
-  <div id="mobile-preview-outer" class="iphone">
-     <div id="mobile-preview-inner">
-       <iframe class="mp-iframe" src="YOUR URL HERE"></iframe>
-     </div>
-   </div>
-</div>
-```
-
-Previewing your website is extremely simple. Just replace **YOUR URL HERE** with a URL of your choice, upload the HTML and CSS files, and you're ready to go!
 
 Project Notes
 --------------
